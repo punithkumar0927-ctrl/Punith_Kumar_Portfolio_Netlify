@@ -218,4 +218,4 @@ This project is created for personal portfolio and educational purposes.
 
 ---
 
-⭐ If you like this portfolio, consider giving the repository a star.
+⭐ If you like this portfolio, consider giving the repository a star..
